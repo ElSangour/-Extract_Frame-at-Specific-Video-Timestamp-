@@ -1,5 +1,4 @@
-# Extract-Frame-at-Specific-Video-Timestamp
-## Video Frame Extractor
+# Extract-Frames-From-A-Video
 
 Theses two script allows you to extract a specific frame from a video at a given timestamp and the other one allows you to extract all frames from a set of video in a specefic folder in your system.
 
