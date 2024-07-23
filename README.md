@@ -1,1 +1,1 @@
-# -Extract_Frame-at-Specific-Video-Timestamp-
+# Extract-Frame-at-Specific-Video-Timestamp
