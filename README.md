@@ -1,7 +1,7 @@
 # Extract-Frame-at-Specific-Video-Timestamp
 ## Video Frame Extractor
 
-This script allows you to extract a specific frame from a video at a given timestamp.
+Theses two script allows you to extract a specific frame from a video at a given timestamp and the other one allows you to extract all frames from a set of video in a specefic folder in your system.
 
 ### Requirements
 
@@ -26,8 +26,9 @@ git clone https://github.com/yourusername/video-frame-extractor.git cd video-fra
 Run the Script:
 ```bash
 python extract_frame.py
+pyhton extract_frames.py
 ```
-
+### About extract_frame.py
 #### Input the Video Path:
 
 When prompted, enter the path to the video file. This can be an absolute or a relative path.
