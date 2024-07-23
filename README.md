@@ -12,20 +12,21 @@ This script allows you to extract a specific frame from a video at a given times
 
 To install OpenCV, you can use pip:
 
-bash pip install opencv-python
-
+```bash
+ pip install opencv-python
+```
 
 ### Usage
 
 Clone the Repository:
-
-bash git clone https://github.com/yourusername/video-frame-extractor.git cd video-frame-extractor
-
+```bash
+git clone https://github.com/yourusername/video-frame-extractor.git cd video-frame-extractor
+```
 
 Run the Script:
-
-bash python extract_frame.py
-
+```bash
+python extract_frame.py
+```
 
 #### Input the Video Path:
 
